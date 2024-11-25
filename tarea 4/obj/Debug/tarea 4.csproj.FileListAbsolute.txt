@@ -1,0 +1,33 @@
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\tarea 4.exe.config
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\tarea 4.exe
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\tarea 4.pdb
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\System.Buffers.dll
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\System.Memory.dll
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\System.Text.Json.dll
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\System.ValueTuple.dll
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\WebDriver.dll
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\WebDriver.Support.dll
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\System.Buffers.xml
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\System.Memory.xml
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\System.Text.Json.xml
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\System.ValueTuple.xml
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\WebDriver.xml
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\bin\Debug\WebDriver.Support.xml
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\obj\Debug\tarea 4.csproj.AssemblyReference.cache
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\obj\Debug\tarea 4.csproj.CoreCompileInputs.cache
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\obj\Debug\tarea 4.csproj.Up2Date
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\obj\Debug\tarea 4.exe
+C:\Users\fseba\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2024-C3\Programacion III\tarea 4\tarea 4\obj\Debug\tarea 4.pdb
